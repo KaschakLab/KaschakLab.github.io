@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Kaschak Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Kaschak Lab at Florida State University (FSU)"
 sitemap: false
 permalink: /
 ---
