@@ -1,5 +1,5 @@
 - name: Dr. Michael P. Kaschak
-  photo: Milan1.jpg
+  photo: mkpic.jpg
   info: Professor and PI 
   email: kaschak@psy.fsu.edu
   number_educ: 5
@@ -18,7 +18,7 @@
   education2: BSc Jilin University
 
 - name: Anuja Thomas 
-  photo: Sato.jpeg
+  photo: anuja.jpeg
   info: Postdoc, started September 2023
   email: jwlee0421@postech.ac.kr
   number_educ: 2
@@ -26,7 +26,7 @@
   education2: Master, University of Tokyo
 
 - name: Nelu Radpour 
-  photo: Thomas.jpg
+  photo: nr.jpg
   info: Akademischer Rat, since November 2023
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
