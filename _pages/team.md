@@ -26,11 +26,10 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
 
-    <!-- START OF NEW CODE TO ADD -->
   {% if member.description %}
   <p style="margin-top: 5px; font-style: italic;">{{ member.description }}</p>
   {% endif %}
-  <!-- END OF NEW CODE TO ADD -->
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
