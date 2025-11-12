@@ -50,12 +50,16 @@ Collectively, this work advances our understanding of how language operates as a
 **We are looking for passionate new PhD students and undergraduate students to join the team** [(more info)](https://kaschaklab.github.io/vacancies) **!**
 
 
+<div style="text-align: center; margin: 30px 0;">
+    <figure style="display: inline-block; width: 30%;">
+        <img src="{{ site.baseurl }}/images/fsu.png" alt="FSU Logo" style="width: 100%;">
+    </figure>
 
+    <figure style="display: inline-block; width: 30%;">
+        <img src="{{ site.baseurl }}/images/psych.jpg" alt="Psychology Department Logo" style="width: 100%;">
+    </figure>
 
-<figure class="fifth">
-  <img src="/images/fsu.png" style="width: 300px">
-</figure>
-
-<figure class="fifth">
-  <img src="/images/psych.jpg" style="width: 300px">
-</figure>
+    <figure style="display: inline-block; width: 30%;">
+        <img src="{{ site.baseurl }}/images/fcrr.png" alt="Third Lab Logo" style="width: 100%;">
+    </figure>
+</div>
