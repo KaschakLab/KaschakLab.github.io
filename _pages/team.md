@@ -25,6 +25,12 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+
+    <!-- START OF NEW CODE TO ADD -->
+  {% if member.description %}
+  <p style="margin-top: 5px; font-style: italic;">{{ member.description }}</p>
+  {% endif %}
+  <!-- END OF NEW CODE TO ADD -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
