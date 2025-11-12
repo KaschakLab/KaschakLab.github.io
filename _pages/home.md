@@ -50,8 +50,8 @@ Collectively, this work advances our understanding of how language operates as a
 **We are looking for passionate new PhD students and undergraduate students to join the team** [(more info)](https://kaschaklab.github.io/openings) **!**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-top: 30px;">
-  <img src="{{ site.baseurl }}/images/fsu.png" alt="FSU Logo" style="width: 150px; height: 150px; object-fit: contain;">
-  <img src="{{ site.baseurl }}/images/psych.jpg" alt="Psychology Logo" style="width: 150px; height: 150px; object-fit: contain;">
-  <img src="{{ site.baseurl }}/images/fcrr.png" alt="FCRR Logo" style="width: 150px; height: 150px; object-fit: contain;">
-  <img src="{{ site.baseurl }}/images/wows.png" alt="Wow Logo" style="width: 150px; height: 150px; object-fit: contain;">
+  <img src="{{ site.baseurl }}/images/fsu.png" alt="FSU Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
+  <img src="{{ site.baseurl }}/images/psych.jpg" alt="Psychology Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
+  <img src="{{ site.baseurl }}/images/fcrr.png" alt="FCRR Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
+  <img src="{{ site.baseurl }}/images/wows.png" alt="Wow Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
 </div>
