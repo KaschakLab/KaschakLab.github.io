@@ -1,27 +1,27 @@
-- title: "Cryogenic geometric anti-spring vibration isolation system"
-  image: GAS.png
+- title: "An investigation of the feeling that an inter-turn silence has lasted too long"
+  image: rpic.jpeg
   description: TLow temperature and low vibration levels are key for scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
   authors: L. Feenstra, S. Dominguez-Calderon, K. van Oosten, H. S. M. Bohemen, T. Benschop, M. Brinkman, M. Li, E. Hennes, R. Cornelissen, B. J. Hensen, A. Bertolini, M. P. Allan
   link:
-    url: https://arxiv.org/abs/2509.09010
+    url: https://link.springer.com/article/10.3758/s13423-025-02760-z
     display: arXiv (2025)
   highlight: 1
 
-- title: "Tapping-mode SQUID-on-tip Microscopy with Proximity Josephson Junctions"
+- title: "Non-sentential responses to requests for information"
   image: SQUIDGAME.png
   description: We measure measure non-equilibrium properties such as current and dissipation, and their relation to structure, which a novel SQUID-AFM. Collaboration with the [Lahabi Lab](https://www.lahabilab.com), led by Matthijs Rog.
   authors: Matthijs Rog, Tycho J. Blom, Daan B. Boltje, Jimi D. de Haan, Remko Fermin, Jiasen Niu, Yasmin C. Doedes, Milan P. Allan, Kaveh Lahabi
   link:
-    url: https://arxiv.org/pdf/2508.21575
+    url: https://link.springer.com/article/10.3758/s13421-024-01645-1
     display: arxiv (2025)
   highlight: 1
 
-- title: "Signatures of Amorphous Shiba State in FeTe0.55Se0.45"
-  image: shiba_cover.jpg
+- title: "Hysteresis in reach planning and spatial demonstrative choice"
+  image: spatial.jpg
   description: Can superconducting coherence peaks form impurity-like ring patterns? And how can such features appear across the entire surface?  We suggest an an amorphous Shiba state located outside the superconducting gap – a Shiba liquid.
   authors: Jinwon Lee* & Sanghun Lee*, Andreas Kreisel, Jens Paaske, Brian M. Andersen, Koen M. Bastiaans, Damianos Chatzopoulosm Genda GuDoohee Cho, Milan P. Allan
   link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.4c05650
+    url: https://journals.sagepub.com/doi/full/10.1177/17470218251318225
     display: Nano Lett. 25, 4227 (2025)
   highlight: 1
 
