@@ -19,6 +19,7 @@ Collectively, this work advances our understanding of how language operates as a
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -34,6 +35,9 @@ Collectively, this work advances our understanding of how language operates as a
         </div>
         <div class="item">
             <img src="{{ '/images/ec.jpg' | relative_url }}" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ '/images/embody.png' | relative_url }}" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
