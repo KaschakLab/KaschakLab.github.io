@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**Our group studies how people understand and produce language, focusing on the interaction between linguistic knowledge, sensorimotor systems, and experience. Using behavioral experiments and cognitive modeling, the lab investigates how action, perception, and learning shape the way we comprehend and use language.studies how people understand and produce language, focusing on the interaction between linguistic knowledge, sensorimotor systems, and experience. Using behavioral experiments and cognitive modeling, the lab investigates how action, perception, and learning shape the way we comprehend and use language.** Join us! 
 
-Our research examines how people understand and produce language in real time, and how these processes are shaped by memory, learning, and sensorimotor systems.
+Our 
 
 We accept students applying to either the <a href="https://psychology.fsu.edu/graduate-studies/programs/cognition-and-cognitive-neuroscience">Cognition and Cognitive Neuroscience</a> or <a href="https://psychology.fsu.edu/graduate-studies/programs/developmental-psychology">Developmental Psychology</a> PhD Program. 
 
