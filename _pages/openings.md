@@ -6,7 +6,7 @@ sitemap: false
 permalink: /openings
 ---
 
-# Open positions
+# <span style="color: #782F40;">Open Positions</span>
 
 **We are currently open for PhD (both through [Cognition and Cognitive Neuroscience](https://psychology.fsu.edu/graduate-studies/programs/cognition-and-cognitive-neuroscience) or [Developmental Psychology](https://psychology.fsu.edu/graduate-studies/programs/developmental-psychology)) and [DIS](https://psychology.fsu.edu/dis/learning-memory-and-language-lab) applications.**
 
