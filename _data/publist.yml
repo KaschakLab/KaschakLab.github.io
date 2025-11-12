@@ -43,9 +43,11 @@
     display: Nano Lett. 25, 4227 (2025)
   highlight: 1
 
-  - title: "Structural repetition in responses to indirect requests"
+highlight: 1
+
+- title: "Structural repetition in responses to indirect requests"
   image: struc.jpg
-  description: Can superconducting coherence peaks form impurity-like ring patterns? And how can such features appear across the entire surface?  We suggest an an amorphous Shiba state located outside the superconducting gap – a Shiba liquid.
+  description: Can superconducting coherence peaks form impurity-like ring patterns? And how can such features appear across the entire surface?  We suggest an an amorphous Shiba state located outside the superconducting gap – a Shiba liquid.
   authors: Jinwon Lee* & Sanghun Lee*, Andreas Kreisel, Jens Paaske, Brian M. Andersen, Koen M. Bastiaans, Damianos Chatzopoulosm Genda GuDoohee Cho, Milan P. Allan
   link:
     url: https://journals.sagepub.com/doi/full/10.1177/17470218251318225
