@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# <span style="color: #782F40;">Research</span>
 
 Updating soon -- stay put. (Aug 11 2023)
 
