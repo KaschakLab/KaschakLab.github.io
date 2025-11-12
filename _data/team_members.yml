@@ -4,7 +4,7 @@
   email: kaschak@psy.fsu.edu
   number_educ: 1
   education1: PhD, University of Wisconsin–Madison
-  
+
 - name: Katie Brousse
   photo: kb.png
   info: PhD Student, started August 2022
@@ -12,15 +12,14 @@
   number_educ: 1
   education1: BA, Loyola University New Orleans
 
-
-- name:Anuja Thomas
+- name: Anuja Thomas
   photo: anu2.png
   info: PhD Student, started August 2023
   email: athomas@psy.fsu.edu
   number_educ: 1
-  education1: BA, American University of Sharjah 
+  education1: BA, American University of Sharjah
 
-- name:Nelu Radpour
+- name: Nelu Radpour
   photo: nr.jpg
   info: PhD Student, started August 2024
   email: radpour@psy.fsu.edu
