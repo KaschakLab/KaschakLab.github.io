@@ -5,17 +5,10 @@ excerpt: "Kaschak Lab at Florida State University (FSU)"
 sitemap: false
 permalink: /
 ---
-
-**Our group studies how people understand and produce language, focusing on the interaction between linguistic knowledge, sensorimotor systems, and experience. Using behavioral experiments and cognitive modeling, the lab investigates how action, perception, and learning shape the way we comprehend and use language.studies how people understand and produce language, focusing on the interaction between linguistic knowledge, sensorimotor systems, and experience. Using behavioral experiments and cognitive modeling, the lab investigates how action, perception, and learning shape the way we comprehend and use language.** Join us! 
-
-Our 
-
-We accept students applying to either the <a href="https://psychology.fsu.edu/graduate-studies/programs/cognition-and-cognitive-neuroscience">Cognition and Cognitive Neuroscience</a> or <a href="https://psychology.fsu.edu/graduate-studies/programs/developmental-psychology">Developmental Psychology</a> PhD Program. 
+Our group studies how people understand and produce language, focusing on the interaction between linguistic knowledge, sensorimotor systems, and experience. Using behavioral experiments and cognitive modeling, the lab investigates how action, perception, and learning shape the way we comprehend and use language.
 
 We have two overarching research interests: first, 
 **language comprehension**, largely focusing on the embodiment of language. That is, we are interested in how our systems of perception and action planning underpin our ability to understand language. . Second, in **language production** and the way that implicit and explicit learning processes shape the choices that we make when we speak and write. 
-
-Through experimental and computational approaches, our studies explore questions such as how bodily states and actions influence language understanding, how linguistic structures are learned and maintained through experience, and how comprehension and production processes interact during communication.
 
 Collectively, this work advances our understanding of how language operates as an embodied, adaptive system that connects thought, perception, and action.
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -62,9 +55,7 @@ Collectively, this work advances our understanding of how language operates as a
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and undergraduate students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
 
 
 
