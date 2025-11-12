@@ -51,15 +51,17 @@ Collectively, this work advances our understanding of how language operates as a
 
 
 <div style="text-align: center; margin: 30px 0;">
-    <figure style="display: inline-block; width: 30%;">
-        <img src="{{ site.baseurl }}/images/fsu.png" alt="FSU Logo" style="width: 100%;">
-    </figure>
 
-    <figure style="display: inline-block; width: 30%;">
-        <img src="{{ site.baseurl }}/images/psych.jpg" alt="Psychology Department Logo" style="width: 100%;">
-    </figure>
+<span style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="{{ site.baseurl }}/images/fsu.png" alt="FSU Logo" style="width: 100%;">
+</span>
 
-    <figure style="display: inline-block; width: 30%;">
-        <img src="{{ site.baseurl }}/images/fcrr.png" alt="Third Lab Logo" style="width: 100%;">
-    </figure>
+<span style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="{{ site.baseurl }}/images/psych.jpg" alt="Psychology Department Logo" style="width: 100%;">
+</span>
+
+<span style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="{{ site.baseurl }}/images/fcrr.png" alt="FCRR Logo" style="width: 100%;">
+</span>
+
 </div>
