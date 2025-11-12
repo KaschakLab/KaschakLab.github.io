@@ -8,17 +8,17 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD (both through [Cognition and Cognitive Neuroscience](https://psychology.fsu.edu/graduate-studies/programs/cognition-and-cognitive-neuroscience) or [Developmental Psychology](https://psychology.fsu.edu/graduate-studies/programs/developmental-psychology)) and [DIS applications](https://psychology.fsu.edu/dis/learning-memory-and-language-lab).**
+**We are currently open for PhD (both through [Cognition and Cognitive Neuroscience](https://psychology.fsu.edu/graduate-studies/programs/cognition-and-cognitive-neuroscience) or [Developmental Psychology](https://psychology.fsu.edu/graduate-studies/programs/developmental-psychology)) and [DIS](https://psychology.fsu.edu/dis/learning-memory-and-language-lab) applications.**
 
 We are  looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+You will have the chance to work on the grand challenges of embodied cognition and language understanding, often at the interface of experimental design and cognitive theory. You will be involved in determining the important and interesting questions, developing tasks and models to test theoretical predictions, performing measurements, and making discoveries about the relationship between the body and mind.
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto: kaschak@psy.fsu.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 ### Graduate students from elsewhere
-If you are interested in visiting our lab here at FSU, see [here](https://global.fsu.edu/about/visiting-scholars#:~:text=Visiting%20Scholars%20are%20invited%20to,initiated%20by%20the%20FSU%20host) and send [Dr. Kaschak](mailto:johndoe@fakeemail.com) an email
+Our lab occasionally hosts visiting scholars and welcomes collaborative research. See [here](https://global.fsu.edu/about/visiting-scholars#:~:text=Visiting%20Scholars%20are%20invited%20to,initiated%20by%20the%20FSU%20host) and send [Dr. Kaschak](mailto:kaschak@psy.fsu.edu) an email if interested. 
 
 
 <figure>
