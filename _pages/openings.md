@@ -1,9 +1,9 @@
 ---
-title: "LML Lab - Vacancies"
+title: "LML Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 # Open positions
