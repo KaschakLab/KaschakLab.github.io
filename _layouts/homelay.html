@@ -2,8 +2,39 @@
 layout: default
 ---
 
+<style>
+  /* This creates the shimmering animation */
+  @keyframes text-shine-animation {
+    0% { background-position: -200% center; }
+    100% { background-position: 200% center; }
+  }
+
+  /* This applies the animation to our text */
+  .fun-animated-text {
+    /* These are the FSU Garnet and Gold colors! */
+    background-image: linear-gradient(
+      to right,
+      #782F40,
+      #FFC72C,
+      #782F40,
+      #FFC72C,
+      #782F40
+    );
+    
+    /* This makes the gradient move */
+    background-size: 200% auto;
+    animation: text-shine-animation 10s linear infinite;
+
+    /* This "clips" the gradient to the text shape */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+</style>
+
   <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the Learning, Memory, and Language Lab! </h1>
+       <h1 class="fun-animated-text">WELCOME TO THE LEARNING, MEMORY, AND LANGUAGE LAB</h1>
 
 	{{ content }}
   </div>
