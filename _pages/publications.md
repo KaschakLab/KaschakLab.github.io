@@ -9,8 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [Google Scholar](https://scholar.google.com/citations?user=4OkEqtMAAAAJ&hl=en).**
 
 {% assign number_printed = 0 %}
