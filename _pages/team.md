@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Our Lab
+## <span style="color: #782F40;">Our Lab</span>
 
  **We are always looking for new PhD students and motivated undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings)**!**
 
