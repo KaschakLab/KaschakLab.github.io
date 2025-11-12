@@ -58,9 +58,6 @@ Collectively, this work advances our understanding of how language operates as a
 
 
 <figure class="fifth">
-  <img src="../fsu.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="/images/fsu.png" style="width: 130px">
+  <img src="/images/psych.jpg" style="width: 130px">
 </figure>
