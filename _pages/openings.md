@@ -18,7 +18,7 @@ You will have the chance to work on the grand challenges of embodied cognition a
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto: kaschak@psy.fsu.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 ### Graduate students from elsewhere
-Our lab occasionally hosts visiting scholars and welcomes collaborative research. See [here](https://global.fsu.edu/about/visiting-scholars#:~:text=Visiting%20Scholars%20are%20invited%20to,initiated%20by%20the%20FSU%20host) and send [Dr. Kaschak](mailto:kaschak@psy.fsu.edu) an email if interested. 
+Our lab occasionally hosts visiting scholars and welcomes collaborative research. See [here](https://global.fsu.edu/about/visiting-scholars#:~:text=Visiting%20Scholars%20are%20invited%20to,initiated%20by%20the%20FSU%20host) for more information and send [Dr. Kaschak](mailto:kaschak@psy.fsu.edu) an email if interested. 
 
 
 <figure>
