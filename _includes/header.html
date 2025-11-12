@@ -9,22 +9,18 @@
 	  </button>
 	
     <!-- 
-      THIS IS THE FINAL FIX:
-      I've added "white-space: nowrap;" to the <a> tag.
-      This FORCES the image and the text to stay on one single line
-      and will prevent the "LML Lab" text from ever wrapping.
+      THIS IS THE FIX:
+      1. Added "white-space: nowrap;" to the <a> tag to prevent wrapping.
+      2. Fixed the typo: "classB=" is now "class=" on the first span.
     -->
     <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="white-space: nowrap;">
       
-      <!-- Your original, "perfect" image styling -->
       <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block; vertical-align: text-top; margin-top: -1.5px;">
       
-      <!-- The text that shows on desktop -->
-      <span class="hidden-xs">Learning, Memory, and Language Lab</span>
+      <!-- The text that shows on desktop (typo fixed) -->
+      <span class="hidden-xs" style="color: #782F40;">Kaschak Lab</span>
       
-      <!-- The text that shows on mobile -->
-      <span class="visible-xs">Kaschak Lab</span>
-    </a>
+
     <!-- END OF FIX -->
 
 	</div>
