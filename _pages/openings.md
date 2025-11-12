@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and DIS applications.**
+**We are currently open for PhD and [DIS applications](https://psychology.fsu.edu/dis/learning-memory-and-language-lab).**
 
 We are  looking for new group members with passion, talent, and grit!
 
