@@ -54,6 +54,6 @@ Collectively, this work advances our understanding of how language operates as a
 
 
 <figure class="fifth">
-  <img src="/images/fsu.png" style="width: 130px">
-  <img src="/images/psych.jpg" style="width: 130px">
+  <img src="/images/fsu.png" style="width: 300px">
+  <img src="/images/psych.jpg" style="width: 300px">
 </figure>
