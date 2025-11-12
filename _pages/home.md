@@ -1,7 +1,7 @@
 ---
 title: "Kaschak Lab - Home"
 layout: homelay
-excerpt: "Kaschak Lab at Florida State University (FSU)"
+excerpt: "LML Lab at FSU"
 sitemap: false
 permalink: /
 ---
