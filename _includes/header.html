@@ -8,16 +8,12 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <!-- 
-      THIS IS THE FIX:
-      I've added "style=color: crimson;" to the two <span> tags below.
-    -->
     <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="white-space: nowrap;">
       
       <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block; vertical-align: text-top; margin-top: -1.5px;">
       
-      <!-- The text that shows on desktop (NOW CRIMSON) -->
-      <span classB="hidden-xs" style="color: #782F40;">Learning, Memory, and Language Lab</span>
+      <!-- THIS IS THE FIX: Changed "classB=" to "class=" -->
+      <span class="hidden-xs" style="color: #782F40;">Learning, Memory, and Language Lab</span>
       
       <!-- The text that shows on mobile (NOW CRIMSON) -->
       <span class="visible-xs" style="color: #782F40;">Kaschak Lab</span>
