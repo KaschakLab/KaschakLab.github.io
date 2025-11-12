@@ -47,7 +47,7 @@ Collectively, this work advances our understanding of how language operates as a
 </div>
 
 
-**We are looking for passionate new PhD students, Postdocs, and undergraduate students to join the team** [(more info)](https://kaschaklab.github.io/vacancies) **!**
+**We are looking for passionate new PhD students and undergraduate students to join the team** [(more info)](https://kaschaklab.github.io/vacancies) **!**
 
 
 
