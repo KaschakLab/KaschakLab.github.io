@@ -23,7 +23,9 @@ The principles governing how human language users achieve alignment and coordina
 **Grounding AI Language:** Ensuring that computational models of language (Large Language Models) are robustly grounded in real-world actions, perception, and intentions, preventing purely abstract or uninterpretable linguistic behaviors.
 
 **AI Alignment:** Informing the design of systems that can achieve reliable, natural, and context-dependent alignment with human goals and linguistic expectations, promoting safer and more effective human-AI interaction.
+<div style="text-align: center; margin-top: 30px;">
+    <img src="{{ site.baseurl }}/images/respic/adorb2.png" style="width: 35%; margin: 10px; display: inline-block;" alt="Adorb 2 Image">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/adorb.png){: style="width: 70%; float: center; margin: 0px"}
-
+    <img src="{{ site.baseurl }}/images/respic/adorb.png" style="width: 35%; margin: 10px; display: inline-block;" alt="Adorb Image">
+</div>
 ### ... and more.
