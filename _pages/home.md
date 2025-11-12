@@ -54,6 +54,6 @@ Collectively, this work advances our understanding of how language operates as a
 
 | | | |
 | :---: | :---: | :---: |
-| ![]({{ site.baseurl }}/images/fsu.png){: style="width: 90%;"} | ![]({{ site.baseurl }}/images/psych.jpg){: style="width: 90%;"} | ![]({{ site.baseurl }}/images/fcrr.png){: style="width: 90%;"} |
+| ![]({{ site.baseurl }}/images/fsu.png){: style="width: 97%;"} | ![]({{ site.baseurl }}/images/psych.jpg){: style="width: 97%;"} | ![]({{ site.baseurl }}/images/fcrr.png){: style="width: 97%;"} |
 
 </div>
