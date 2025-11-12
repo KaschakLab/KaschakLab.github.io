@@ -8,7 +8,7 @@ permalink: /
 Our group studies how people understand and produce language, focusing on the interaction between linguistic knowledge, sensorimotor systems, and experience. Using behavioral experiments and cognitive modeling, the lab investigates how action, perception, and learning shape the way we comprehend and use language.
 
 We have two overarching research interests: first, 
-**language comprehension**, largely focusing on the embodiment of language. That is, we are interested in how our systems of perception and action planning underpin our ability to understand language. . Second, in **language production** and the way that implicit and explicit learning processes shape the choices that we make when we speak and write. 
+**language comprehension**, largely focusing on the embodiment of language. That is, we are interested in how our systems of perception and action planning underpin our ability to understand language. Second, in **language production** and the way that implicit and explicit learning processes shape the choices that we make when we speak and write. 
 
 Collectively, this work advances our understanding of how language operates as an embodied, adaptive system that connects thought, perception, and action.
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -19,8 +19,6 @@ Collectively, this work advances our understanding of how language operates as a
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -39,9 +37,6 @@ Collectively, this work advances our understanding of how language operates as a
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -62,7 +57,7 @@ Collectively, this work advances our understanding of how language operates as a
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/fsu.png" style="width: 130px">
+  <img src="../fsu.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
