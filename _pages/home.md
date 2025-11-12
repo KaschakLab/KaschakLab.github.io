@@ -54,5 +54,5 @@ Collectively, this work advances our understanding of how language operates as a
   <img src="{{ site.baseurl }}/images/fsu.png" alt="FSU Logo" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   <img src="{{ site.baseurl }}/images/psych.jpg" alt="Psychology Logo" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   <img src="{{ site.baseurl }}/images/fcrr.png" alt="FCRR Logo" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
-  <img src="{{ site.baseurl }/images/wowS.png" alt="Wow Logo" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
+  <img src="{{ site.baseurl }}/images/wows.png" alt="Wow Logo" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
 </div>
