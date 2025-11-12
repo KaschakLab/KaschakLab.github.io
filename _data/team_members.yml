@@ -1,4 +1,4 @@
-- name: Dr. Michael Kaschak
+- name: <a href="https://scholar.google.com/citations?user=4OkEqtMAAAAJ&hl=en">Dr. Michael Kaschak</a>
   photo: mkbg.png
   info: Principal Investigator
   number_educ: 1
@@ -9,7 +9,7 @@
 
 - name: <a href="https://scholar.google.com/citations?user=PcoAH4QAAAAJ&hl=en&oi=sra">Katie Brousse</a>
   photo: kb.png
-  info: PhD Student, started August 2022
+  info: PhD Student, started August 2022 
   number_educ: 1
   education1: BA, Loyola University New Orleans
   email: brousse@psy.fsu.edu
