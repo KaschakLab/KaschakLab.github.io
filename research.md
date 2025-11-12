@@ -24,6 +24,6 @@ The principles governing how human language users achieve alignment and coordina
 
 **AI Alignment:** Informing the design of systems that can achieve reliable, natural, and context-dependent alignment with human goals and linguistic expectations, promoting safer and more effective human-AI interaction.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/adorb.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.
