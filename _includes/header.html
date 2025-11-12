@@ -9,18 +9,20 @@
 	  </button>
 	
     <!-- 
-      THIS IS THE FIX:
-      1. Added "white-space: nowrap;" to the <a> tag to prevent wrapping.
-      2. Fixed the typo: "classB=" is now "class=" on the first span.
+      THIS IS THE SIMPLIFIED, "BACK-TO-NORMAL" VERSION.
+      - Removed "white-space: nowrap;" from the <a> tag.
+      - Removed the "hidden-xs" and "visible-xs" spans.
+      - Added ONE span with your text, in Garnet, for all screen sizes.
     -->
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="white-space: nowrap;">
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
       
+      <!-- Your original, "perfect" image styling -->
       <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block; vertical-align: text-top; margin-top: -1.5px;">
       
-      <!-- The text that shows on desktop (typo fixed) -->
-      <span class="hidden-xs" style="color: #782F40;">Kaschak Lab</span>
-      
+      <!-- One single text element for all devices -->
+      <span style="color: #782F40;">Kaschak Lab</span>
 
+    </a>
     <!-- END OF FIX -->
 
 	</div>
