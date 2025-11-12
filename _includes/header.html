@@ -9,13 +9,14 @@
 	  </button>
 	
     <!-- 
-      THIS IS THE FINAL, CORRECTED BLOCK.
-      THE <img> IS NOW INSIDE THE <a>.
-      THIS IS THE ONE.
+      THIS IS THE FINAL FIX:
+      I've added "white-space: nowrap;" to the <a> tag.
+      This FORCES the image and the text to stay on one single line
+      and will prevent the "LML Lab" text from ever wrapping.
     -->
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="white-space: nowrap;">
       
-      <!-- Your logo image, with your "perfect" styling -->
+      <!-- Your original, "perfect" image styling -->
       <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block; vertical-align: text-top; margin-top: -1.5px;">
       
       <!-- The text that shows on desktop -->
