@@ -30,7 +30,7 @@ Collectively, this work advances our understanding of how language operates as a
             <img src="{{ '/images/brainbanner.png' | relative_url }}" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ '/images/ded.png' | relative_url }}" alt="Slide 3" />
+            <img src="{{ '/images/ded2.png' | relative_url }}" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ '/images/ec.jpg' | relative_url }}" alt="Slide 4" />
@@ -53,5 +53,5 @@ Collectively, this work advances our understanding of how language operates as a
   <img src="{{ site.baseurl }}/images/fsu.png" alt="FSU Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
   <img src="{{ site.baseurl }}/images/psych.jpg" alt="Psychology Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
   <img src="{{ site.baseurl }}/images/fcrr.png" alt="FCRR Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
-  <img src="{{ site.baseurl }}/images/wows.png" alt="Wow Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
+  <img src="{{ site.baseurl }}/images/wowz.png" alt="Wow Logo" style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%;">
 </div>
