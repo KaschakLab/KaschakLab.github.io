@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Our Lab
 
  **We are always looking for new PhD students and motivated undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings)**!**
 
