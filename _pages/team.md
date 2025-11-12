@@ -11,7 +11,7 @@ permalink: /team/
  **We are always looking for new PhD students and motivated undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-## Members
+## Current Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
