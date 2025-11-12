@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# <span style="color: #782F40;">Research</span>
 
 Our lab investigates the cognitive and sensorimotor underpinnings of human language processing, viewing language not as an abstract, modular system, but as an embodied, adaptive capacity deeply integrated with our perception and action systems.
 
