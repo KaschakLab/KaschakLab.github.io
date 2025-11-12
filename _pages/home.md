@@ -35,9 +35,6 @@ Collectively, this work advances our understanding of how language operates as a
         <div class="item">
             <img src="{{ '/images/ec.jpg' | relative_url }}" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ '/images/fsu.png' | relative_url }}" alt="Slide 5" />
-        </div>
     </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
