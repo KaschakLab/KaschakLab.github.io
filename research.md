@@ -16,9 +16,8 @@ Our overarching research goals are to model and understand:
 
 **Adaptive Production and Alignment:** How implicit learning and experience drive speaker choices, leading to structural and conceptual alignment between dialogue partners. We study how experience dictates the patterns of language we produce.
 
-**The Nexus of Language, Action, and Learning:** We use behavioral studies and cognitive modeling to reveal how linguistic knowledge, sensorimotor experiences, and learning processes—both statistical and explicit—collectively shape language use across the lifespan.
+**The Nexus of Language, Action, and Learning:** We use behavioral studies and cognitive modeling to reveal how linguistic knowledge, sensorimotor experiences, and learning processes (both statistical and explicit) collectively shape language use across the lifespan.
 
-From Human Alignment to AI Alignment
 The principles governing how human language users achieve alignment and coordination are directly relevant to the current challenges in large-scale machine learning systems. Our findings on how linguistic patterns are implicitly learned, adapted, and constrained by physical interaction provide critical insights into:
 
 **Grounding AI Language:** Ensuring that computational models of language (Large Language Models) are robustly grounded in real-world actions, perception, and intentions, preventing purely abstract or uninterpretable linguistic behaviors.
