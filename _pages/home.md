@@ -30,13 +30,13 @@ Collectively, this work advances our understanding of how language operates as a
             <img src="{{ '/images/emb.jpg' | relative_url }}" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ '/images/lml.jpg' | relative_url }}" alt="Slide 3" />
+            <img src="{{ '/images/cutelml.jpg' | relative_url }}" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ '/images/slider7001400/lab.jpg' | relative_url }}" alt="Slide 4" />
+            <img src="{{ '/images/ec.jpg' | relative_url }}" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ '/images/slider7001400/Fig_Science_Web.jpg' | relative_url }}" alt="Slide 5" />
+            <img src="{{ '/images/fsu.png' | relative_url }}" alt="Slide 5" />
         </div>
     </div>
     </div>
