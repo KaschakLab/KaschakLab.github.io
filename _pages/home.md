@@ -8,12 +8,16 @@ permalink: /
 
 **News: Our group moved to the University of Munich (LMU)!** Join us! 
 
-We are a dynamic research group accepting students through both the [Cognition and Cognitive Neuroscience](https://psychology.fsu.edu/graduate-studies/programs/cognition-and-cognitive-neuroscience) and [Development Psychology](http://www.physics.leidenuniv.nl/) PhD programs at FSU. 
+Our research examines how people understand and produce language in real time, and how these processes are shaped by memory, learning, and sensorimotor systems.
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+We accept students applying to either the <a href="https://psychology.fsu.edu/graduate-studies/programs/cognition-and-cognitive-neuroscience">Cognition and Cognitive Neuroscience</a> or <a href="https://psychology.fsu.edu/graduate-studies/programs/developmental-psychology">Developmental Psychology</a> PhD Program. 
 
+We have two overarching research interests: first, 
+**language comprehension**, largely focusing on the embodiment of language. That is, we are interested in how our systems of perception and action planning underpin our ability to understand language. . Second, in **language production** and the way that implicit and explicit learning processes shape the choices that we make when we speak and write. 
+
+Through experimental and computational approaches, our studies explore questions such as how bodily states and actions influence language understanding, how linguistic structures are learned and maintained through experience, and how comprehension and production processes interact during communication.
+
+Collectively, this work advances our understanding of how language operates as an embodied, adaptive system that connects thought, perception, and action.
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
