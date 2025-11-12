@@ -8,10 +8,8 @@ permalink: /team/
 
 # Group Members
 
- **We are always looking for new PhD students, Postdocs, and motivated undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are always looking for new PhD students and motivated undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Members
 {% assign number_printed = 0 %}
