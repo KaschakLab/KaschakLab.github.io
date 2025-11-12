@@ -26,10 +26,12 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
 
-  {% if member.description %}
-  <p style="margin-top: 5px; font-style: italic;">{{ member.description }}</p>
-  {% endif %}
+  <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
 
+  <!-- 1. EDUCATION BLOCK (NOW COMES FIRST) -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -63,14 +65,13 @@ permalink: /team/
   {% endif %}
 
   </ul>
+
+  <!-- 2. DESCRIPTION BLOCK (NOW COMES AFTER EDUCATION) -->
+  {% if member.description %}
+  <p style="margin-top: 5px; font-style: italic;">{{ member.description }}</p>
+  {% endif %}
+
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
