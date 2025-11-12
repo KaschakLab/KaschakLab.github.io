@@ -52,8 +52,8 @@ Collectively, this work advances our understanding of how language operates as a
 
 <div style="text-align: center;">
 
-| | | |
-| :---: | :---: | :---: |
-| ![]({{ site.baseurl }}/images/fsu.png){: style="width: 97%;"} | ![]({{ site.baseurl }}/images/psych.jpg){: style="width: 97%;"} | ![]({{ site.baseurl }}/images/fcrr.png){: style="width: 97%;"} |
+| | | | |
+| :---: | :---: | :---: | :---: |
+| ![]({{ site.baseurl }}/images/fsu.png){: style="width: 97%;"} | ![]({{ site.baseurl }}/images/psych.jpg){: style="width: 97%;"} | ![]({{ site.baseurl }}/images/fcrr.png){: style="width: 97%;"} | ![]({{ site.baseurl }}/images/wow.png){: style="width: 97%;"} |
 
 </div>
