@@ -8,12 +8,17 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block; vertical-align: text-top; margin-top: -1.5px;">
+    <!-- THIS IS THE EDITED SECTION (NOW WITH FLEXBOX) -->
+    <!-- 
+      We've added "display: flex; align-items: center;" to the <a> tag.
+      This forces its children (the image and the text) to stay on one line
+      and be vertically centered.
+    -->
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="display: flex; align-items: center;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block;">
       
       <span class="hidden-xs">Learning, Memory, and Language Lab</span>
-
+      
       <span class="visible-xs">LML Lab</span>
     </a>
 
