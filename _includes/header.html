@@ -8,19 +8,23 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <!-- THIS IS THE EDITED SECTION (NOW WITH FLEXBOX) -->
     <!-- 
-      We've added "display: flex; align-items: center;" to the <a> tag.
-      This forces its children (the image and the text) to stay on one line
-      and be vertically centered.
+      THIS IS THE FINAL, CORRECTED BLOCK.
+      THE <img> IS NOW INSIDE THE <a>.
+      THIS IS THE ONE.
     -->
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="display: flex; align-items: center;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block;margin-top: 1.5px;">
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
       
+      <!-- Your logo image, with your "perfect" styling -->
+      <img src="{{ site.url }}{{ site.baseurl }}/images/fus.png" alt="Lab Logo" style="height: 35px; margin-right: 5px; display: inline-block; vertical-align: text-top; margin-top: -1.5px;">
+      
+      <!-- The text that shows on desktop -->
       <span class="hidden-xs">Learning, Memory, and Language Lab</span>
       
+      <!-- The text that shows on mobile -->
       <span class="visible-xs">Kaschak Lab</span>
     </a>
+    <!-- END OF FIX -->
 
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
