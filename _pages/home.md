@@ -27,7 +27,7 @@ Collectively, this work advances our understanding of how language operates as a
             <img src="{{ '/images/cute.png' | relative_url }}" alt="Slide 1"/>
         </div>
         <div class="item">
-            <img src="{{ '/images/emb.jpg' | relative_url }}" alt="Slide 2" />
+            <img src="{{ '/images/brain-banner.png' | relative_url }}" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ '/images/cutelml.jpg' | relative_url }}" alt="Slide 3" />
