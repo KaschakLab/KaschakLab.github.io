@@ -1,29 +1,26 @@
 - name: Dr. Michael P. Kaschak
   photo: mkpic.jpg
-  info: Professor and PI 
+  info: Professor and Principal Investigator
   email: kaschak@psy.fsu.edu
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
+  number_educ: 1
+  education1: PhD, University of Wisconsin–Madison
+  
 - name: Katie Brousse 
   photo: kb.png
   info: PhD Student, started August 2022
-  email: niu@physics.leidenuniv.nl
+  email: brousse@psy.fsu.edu
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: MS, Florida State University
+  education2: BA, University of Louisiana at Lafayette
+
 
 - name: Anuja Thomas 
   photo: anuja.jpg
   info: PhD Student, started August 2023
-  email: jwlee0421@postech.ac.kr
+  email: athomas@psy.fsu.edu
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Bsc American University of Sharjah 
+  education1: MS, Arizona State University; 
+  education2: BA, American University of Sharjah 
 
 - name: Nelu Radpour 
   photo: nr.jpg
@@ -31,7 +28,7 @@
   email: radpour@psy.fsu.edu
   number_educ: 2
   education1: MS, University at Buffalo; MS, University of Colorado Boulder
-  education2: BSc, University of Texas at Austin
+  education2: BA, University of Texas at Austin
 
 - name: "This could be you !"
   photo: rock.jpg
