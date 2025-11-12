@@ -26,10 +26,10 @@ Collectively, this work advances our understanding of how language operates as a
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/lml.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/cute.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/emb.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
@@ -55,14 +55,14 @@ Collectively, this work advances our understanding of how language operates as a
 </div>
 
 
-**We are looking for passionate new PhD students, Postdocs, and undergraduate students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and undergraduate students to join the team** [(more info)](https://kaschaklab.github.io/vacancies) **!**
 
 
 
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/fsu.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
