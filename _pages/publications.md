@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [Google Scholar(https://scholar.google.com/citationsuser=4OkEqtMAAAAJ&hl=en)).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [Google Scholar](https://scholar.google.com/citationsuser=4OkEqtMAAAAJ&hl=en).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
