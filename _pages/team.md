@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are always looking for new PhD students and motivated undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are always looking for new PhD students and motivated undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings)**!**
 
 
 ## Current Members
